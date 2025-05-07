@@ -1,4 +1,5 @@
 # Edit this release and run "make release"
+# test
 RELEASE=3.4.6
 
 SHELL=/bin/bash
